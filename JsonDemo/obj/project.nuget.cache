@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "var+ltiirZzNTO92mkef16QUPCyLVw1KG4TADz3PRQZak4D/f+vRs2+iAmhIZ/ObQIVWh2IPzNSzJ/D7xHG0uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\levfi\\OneDrive\\Masaüstü\\Backend\\JsonDemo\\JsonDemo\\JsonDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\levfi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

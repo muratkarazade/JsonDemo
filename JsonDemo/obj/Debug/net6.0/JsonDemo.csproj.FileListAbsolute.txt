@@ -1,0 +1,17 @@
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JsonDemo\JsonDemo\bin\Debug\net6.0\JsonDemo.exe
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JsonDemo\JsonDemo\bin\Debug\net6.0\JsonDemo.deps.json
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JsonDemo\JsonDemo\bin\Debug\net6.0\JsonDemo.runtimeconfig.json
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JsonDemo\JsonDemo\bin\Debug\net6.0\JsonDemo.dll
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JsonDemo\JsonDemo\bin\Debug\net6.0\JsonDemo.pdb
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JsonDemo\JsonDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JsonDemo\JsonDemo\obj\Debug\net6.0\JsonDemo.csproj.AssemblyReference.cache
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JsonDemo\JsonDemo\obj\Debug\net6.0\JsonDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JsonDemo\JsonDemo\obj\Debug\net6.0\JsonDemo.AssemblyInfoInputs.cache
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JsonDemo\JsonDemo\obj\Debug\net6.0\JsonDemo.AssemblyInfo.cs
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JsonDemo\JsonDemo\obj\Debug\net6.0\JsonDemo.csproj.CoreCompileInputs.cache
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JsonDemo\JsonDemo\obj\Debug\net6.0\JsonDemo.csproj.CopyComplete
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JsonDemo\JsonDemo\obj\Debug\net6.0\JsonDemo.dll
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JsonDemo\JsonDemo\obj\Debug\net6.0\refint\JsonDemo.dll
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JsonDemo\JsonDemo\obj\Debug\net6.0\JsonDemo.pdb
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JsonDemo\JsonDemo\obj\Debug\net6.0\JsonDemo.genruntimeconfig.cache
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JsonDemo\JsonDemo\obj\Debug\net6.0\ref\JsonDemo.dll
